@@ -1,1 +1,1 @@
-# u2_mongoose_flights_solution
+Solution for Mongoose Flights Lab / HW
